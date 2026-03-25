@@ -5,7 +5,6 @@ import FlexContainer from "../shared/ui/FlexContainer";
 import Panel from "../shared/ui/Panel";
 import Button from "../shared/ui/Button";
 import CatCard from "../entitles/Cat/CatCard";
-import EditCatForm from "./EditCatForm";
 import { EditFormContext } from "../app/contexts/EditFormContext";
 import { PanelsContext } from "../app/contexts/PanelsContext";
 

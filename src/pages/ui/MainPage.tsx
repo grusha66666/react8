@@ -1,5 +1,4 @@
 import { ReactNode, useContext } from "react"
-import CatCard from "../../entitles/Cat/CatCard"
 import CatList from "../../features/CatList"
 import FlexContainer from "../../shared/ui/FlexContainer"
 import Panel from "../../shared/ui/Panel"
